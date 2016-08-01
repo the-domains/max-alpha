@@ -1,0 +1,28 @@
+name: max-alpha
+favicon: null
+layout_spectrum: 0.8327300061937422
+typography_spectrum: 0.9154559383168817
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8115133200772107
+  lightness: 0.7443189225159585
+  saturation: 0.10500305471941829
+  rhythmicContrast: 0.27775088092312217
+purpose: []
